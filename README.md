@@ -57,3 +57,6 @@ A titre d'exemple, voici une [implémentation de référence](https://yannicl.gi
 
 1. Ce document avec les champs à remplir dûment remplis.
 2. Un zip du code source sans le répertoire node_modules, dist, dev-dist
+
+## Bonus
+
