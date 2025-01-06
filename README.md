@@ -7,7 +7,7 @@ Nom : Castaneda Aguilar
 
 Numéro d'étudiant : 1977741
 
-Url du site : [https://OttonielCA.github.io/Labo2-VueJS/]
+Url du site : https://OttonielCA.github.io/Labo2-VueJS/
 
 Résultat : / 10
 
