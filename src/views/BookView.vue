@@ -30,7 +30,7 @@
 <script setup>
 import { computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { books } from '/VueJS/labo2/src/assets/books.js'
+import { books } from '../assets/books.js'
 
 const route = useRoute()
 const router = useRouter()

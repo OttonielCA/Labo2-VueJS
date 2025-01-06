@@ -78,7 +78,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { books } from '/VueJS/labo2/src/assets/books.js'
+import { books } from '../assets/books.js'
 
 const router = useRouter()
 const searchQuery = ref('')

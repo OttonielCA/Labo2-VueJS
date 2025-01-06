@@ -26,5 +26,5 @@ h1 {
 </style>
   
   <script setup>
-  import BookList from '/VueJS/labo2/src/components/BookList.vue'
+import BookList from '../components/BookList.vue'
   </script>
