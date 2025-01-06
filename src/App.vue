@@ -13,7 +13,7 @@
     </main>
 
     <footer class="bg-gray-800 text-white py-4 text-center">
-      <p>&copy; 2025 Biblio App</p>
+      <p>&copy; 2025 Ottoniel Castaneda Aguilar - Biblio App</p>
     </footer>
   </div>
 </template>
